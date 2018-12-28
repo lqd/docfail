@@ -1,0 +1,6 @@
+[package]
+name = "docfail"
+version = "0.1.0"
+authors = ["lqd"]
+
+[dependencies]
